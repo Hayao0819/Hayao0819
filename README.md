@@ -2,7 +2,7 @@
 
 [![Age: 16](https://img.shields.io/badge/Age-16-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/August_19)
 [![Belong: Fascode](https://img.shields.io/badge/Belongs-Fascode-green?style=for-the-badge)](https://fascode.net/en/)
-[![LICENSE: The SUSHI-WARE🍣](https://watasuke.tk/pic/license-MIT_SUSHI-WARE.svg)](https://github.com/MakeNowJust/sushi-ware)
+
 
 [![Hayao's github stats](https://github-readme-stats.vercel.app/api?username=Hayao0819&count_private=true&show_icons=true&theme=gotham)](https://github.com/Hayao0819)
 
