@@ -6,7 +6,7 @@
 
 [![Hayao's github stats](https://github-readme-stats.vercel.app/api?username=Hayao0819&count_private=true&show_icons=true&theme=gotham)](https://github.com/Hayao0819)
 
-山田ハヤオです。[Fascode Network](https://fascode.net/en/)に所属しています。変態です。  
+山田ハヤオです。[Fascode Network](https://fascode.net/en/)に所属しています。  
 何かあれば`hayao@fascode.net`までお願いします。  
   
 I'm Yamada Hayao. I belong to [Fascode Network](https://fascode.net/en/). I'm a pervert  
