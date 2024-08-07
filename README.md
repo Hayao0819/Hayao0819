@@ -1,16 +1,16 @@
 # Hayao0819
 
-[![Age: 18](https://img.shields.io/badge/Age-18-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/August_19)
+[![Age: 18](https://img.shields.io/badge/Age-19-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/August_19)
 [![Belong: Fascode](https://img.shields.io/badge/Belongs-Fascode-green?style=for-the-badge)](https://fascode.net/en/)
 
 
 [![Hayao's github stats](https://github-readme-stats.vercel.app/api?username=Hayao0819&count_private=true&show_icons=true&theme=gotham)](https://github.com/Hayao0819)
 
-山田ハヤオです。[Fascode Network](https://fascode.net/en/)に所属しています。  
-何かあれば`hayao@fascode.net`までお願いします。  
+山田ハヤオです。[Fascode Network](https://fascode.net/en/)に所属している群馬大学情報学部の学部生です。
+何かあれば`hayao at fascode.net`か`shun819.mail at gmail.com`までお願いします。  
   
-I'm Yamada Hayao. I belong to [Fascode Network](https://fascode.net/en/). I'm a pervert  
-If you have anything, please send it to `hayao@fascode.net`.  
+I'm Yamada Hayao. I belong to [Fascode Network](https://fascode.net/en/).
+If you have anything, please send it to `hayao at fascode.net` or `shun819.mail at gmail.com`.  
   
 ## Link
 - [Twitter: Hayao0819](https://twitter.com/Hayao0819)
