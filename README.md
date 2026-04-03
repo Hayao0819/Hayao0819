@@ -4,7 +4,7 @@
 [![Belong: Fascode](https://img.shields.io/badge/Belongs-Fascode-green?style=for-the-badge)](https://fascode.net/en/)
 
 
-[![Hayao's github stats](https://github-readme-stats.vercel.app/api?username=Hayao0819&count_private=true&show_icons=true&theme=gotham)](https://github.com/Hayao0819)
+[![Hayao's github stats](https://github-readme-stats-fast.vercel.app/api?username=Hayao0819&count_private=true&show_icons=true&theme=gotham)](https://github.com/Hayao0819)
 
 山田ハヤオです。[Fascode Network](https://fascode.net/en/)に所属している群馬大学情報学部の学部生です。
 何かあれば`hayao at fascode.net`か`shun819.mail at gmail.com`までお願いします。  
@@ -20,4 +20,4 @@ If you have anything, please send it to `hayao at fascode.net` or `shun819.mail 
 - [More info](https://blog.fascode.net/%E5%B1%B1%E7%94%B0%E3%83%8F%E3%83%A4%E3%82%AA/)
 
 ## Language
-[![Hayao's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayao0819&theme=gotham)](https://github.com/Hayao0819)
+[![Hayao's most used languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hayao0819&theme=gotham)](https://github.com/Hayao0819)
